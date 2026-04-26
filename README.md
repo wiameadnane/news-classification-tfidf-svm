@@ -168,10 +168,6 @@ pip install pandas scikit-learn nltk
 - **F1-Score**: Harmonic mean of precision and recall (ranges 0-1, higher is better)
 - **Accuracy**: Overall percentage of correctly classified articles
 
-## License
-
-This project is for educational purposes as part of academic coursework at EuroMed University of Fez.
-
 ## References
 
 Original Paper: "A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification" (2016)
